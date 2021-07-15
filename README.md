@@ -1,7 +1,6 @@
 #Presentation slides link: https://docs.google.com/presentation/d/1MPk2feD09BpeuNsGhUIwhtAgehS_y9D1--p898lhQg4/edit?usp=sharing
 # Extreme Weather
-### Project Title:
-    Extreme_Weather
+
 ### Team Members:
     Angela Thompson
     Elizabeth Sanchez
